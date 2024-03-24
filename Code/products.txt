@@ -1,0 +1,32 @@
+Product Type - Clothing
+Product ID - 103
+Product Name - adp
+Products Available - 5
+Product Price - 100.0
+Product Size - small
+Product colour - red
+
+Product Type - Electronic
+Product ID - 100
+Product Name - ads
+Products Available - 2
+Product Price - 1000.0
+Product Brand - apple
+Product warranty period - 2
+
+Product Type - Clothing
+Product ID - 107
+Product Name - af
+Products Available - 6
+Product Price - 1000.0
+Product Size - large
+Product colour - red
+
+Product Type - Clothing
+Product ID - 105
+Product Name - qpp
+Products Available - 6
+Product Price - 1000.0
+Product Size - small
+Product colour - red
+
